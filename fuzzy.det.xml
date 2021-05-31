@@ -1,0 +1,23 @@
+<additionals>
+    <e1Detector id="1_0" lane="1_0" pos="100.00" freq="100.00" file="Detector.xml" friendlyPos="0"/>
+    <e1Detector id="1_1" lane="1_1" pos="100.00" freq="100.00" file="Detector.xml" friendlyPos="0"/>
+    <e1Detector id="1_2" lane="1_2" pos="100.00" freq="100.00" file="Detector.xml" friendlyPos="0"/>
+    <e1Detector id="2_0" lane="3_0" pos="8.00" freq="100.00" file="Detector.xml" friendlyPos="0"/>
+    <e1Detector id="2_1" lane="3_1" pos="8.00" freq="100.00" file="Detector.xml" friendlyPos="0"/>
+    <e1Detector id="2_2" lane="3_2" pos="8.00" freq="100.00" file="Detector.xml" friendlyPos="0"/>
+    <e1Detector id="3_0" lane="5_0" pos="210.00" freq="100.00" file="Detector.xml" friendlyPos="0"/>
+    <e1Detector id="3_1" lane="5_1" pos="210.00" freq="100.00" file="Detector.xml" friendlyPos="0"/>
+    <e1Detector id="4_0" lane="7_0" pos="70.00" freq="100.00" file="Detector.xml" friendlyPos="0"/>
+    <e1Detector id="4_1" lane="7_1" pos="70.00" freq="100.00" file="Detector.xml" friendlyPos="0"/>
+	
+	<e1Detector id="f1_0" lane="1_0" pos="187.00" freq="100.00" file="eDetector.xml" friendlyPos="0"/>
+    <e1Detector id="f1_1" lane="1_1" pos="187.00" freq="100.00" file="eDetector.xml" friendlyPos="0"/>
+    <e1Detector id="f1_2" lane="1_2" pos="187.00" freq="100.00" file="eDetector.xml" friendlyPos="0"/>
+    <e1Detector id="f2_0" lane="3_0" pos="55.00" freq="100.00" file="eDetector.xml" friendlyPos="0"/>
+    <e1Detector id="f2_1" lane="3_1" pos="55.00" freq="100.00" file="eDetector.xml" friendlyPos="0"/>
+    <e1Detector id="f2_2" lane="3_2" pos="55.00" freq="100.00" file="eDetector.xml" friendlyPos="0"/>
+    <e1Detector id="f3_0" lane="5_0" pos="286.00" freq="100.00" file="eDetector.xml" friendlyPos="0"/>
+    <e1Detector id="f3_1" lane="5_1" pos="286.00" freq="100.00" file="eDetector.xml" friendlyPos="0"/>
+    <e1Detector id="f4_0" lane="7_0" pos="135.00" freq="100.00" file="eDetector.xml" friendlyPos="0"/>
+    <e1Detector id="f4_1" lane="7_1" pos="135.00" freq="100.00" file="eDetector.xml" friendlyPos="0"/>
+</additionals>

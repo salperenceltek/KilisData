@@ -1,0 +1,22 @@
+<additionals>
+    <e1Detector id="10" lane="1_0" pos="122.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="11" lane="1_1" pos="122.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="20" lane="2_0" pos="10.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="30" lane="3_0" pos="36.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="40" lane="4_0" pos="110.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="41" lane="4_1" pos="110.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="50" lane="5_0" pos="30.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="51" lane="5_1" pos="30.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+
+    <e1Detector id="f10" lane="1_0" pos="222.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="f11" lane="1_1" pos="222.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="f20" lane="2_0" pos="110.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="f30" lane="3_0" pos="136.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="f40" lane="4_0" pos="210.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="f41" lane="4_1" pos="210.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="f50" lane="5_0" pos="130.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>
+    <e1Detector id="f51" lane="5_1" pos="130.00" freq="100.00" file="xyz.xml" friendlyPos="0"/>	
+	
+</additionals>
+
+
